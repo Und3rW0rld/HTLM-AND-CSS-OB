@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap ;
+}
+.img-gal{
+    width: 300px;
+    object-fit: cover;
+    height: 300px;
+}
