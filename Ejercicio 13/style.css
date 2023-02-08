@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    background-color: #272d35;
+    border-radius: 5px;
+}
+.input-label{
+    margin: 0 10px;
+    color: black;
+}
+
+.card-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    object-fit: cover;
+}
